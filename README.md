@@ -80,3 +80,14 @@ Then we created and trained LSTM model.
 Compiled model with loss as binary crossentropy and optimizer as adam
 
 After trainng the model, we get accuracy score of 91%, which is good.
+
+#### Model Accuracy  
+![model accuracy](https://user-images.githubusercontent.com/118427592/210932116-e82ff095-ad18-4499-a045-933c32cdd146.png)
+
+#### Model Loss
+![model loss](https://user-images.githubusercontent.com/118427592/210932465-cf2933e8-75f0-4a78-9887-61682500d39a.png)
+
+#### Test prediction count plot
+![test prediction](https://user-images.githubusercontent.com/118427592/210932512-9b78a810-b860-4c81-8abb-6468634e8668.png)
+  
+
